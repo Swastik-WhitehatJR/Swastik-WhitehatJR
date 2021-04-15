@@ -9,7 +9,6 @@
 - 💌 You can mail me in swastikbhattacharjee.07@gmail.com.
 - 🤠 In my this Github Channel, I will always give things related to WitehatJR like the classes and projects.
 
-![My Sign](Great vibes signature.png)
 
 # ABOUT ME
 *Name:* Swastik Bhattacharjee<br/>
@@ -23,3 +22,5 @@
 # MY GIF
 
 ![My GIF](swastik.gif)
+
+![My Sign](Greatvibessignature.png)
