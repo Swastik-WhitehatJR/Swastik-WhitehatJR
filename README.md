@@ -1,5 +1,5 @@
 ![My Sign](Greatvibessignature.png)
-![My Image](swastik.png)
+<!--![My Image](swastik.png)-->
 
 # INTRODUCTION
 - 👋 Hi, I’m [Swastik Bhattacharjee](https://github.com/Swastik-WhitehatJR).
