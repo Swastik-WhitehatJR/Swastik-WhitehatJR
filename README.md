@@ -20,6 +20,6 @@
 *District:* Murshidabad<br/>
 *Nationality:* Indian<br/>
 
-# MY GIF
+<!--# MY GIF-->
 
 ![My GIF](swastik.gif)
