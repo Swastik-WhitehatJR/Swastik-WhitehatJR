@@ -20,9 +20,11 @@
 *District:* Murshidabad<br/>
 *Nationality:* Indian<br/>
 
-<!--# MY GIF-->
-
 ![My GIF](swastik.gif)
+
+
+# ABOUT MY GITHUB PROFILE
+![My GIF](https://github-readme-stats.vercel.app/api?username=Swastik-WhitehatJR&show_icons=true&count_private=true&theme=dark)
 
 
 <!--# SOME OF MY REPOSITORIES
