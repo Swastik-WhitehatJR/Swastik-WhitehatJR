@@ -25,6 +25,7 @@
 
 # ABOUT MY GITHUB PROFILE
 ![My GIF](https://github-readme-stats.vercel.app/api?username=Swastik-WhitehatJR&show_icons=true&count_private=true&theme=dark)
+![MYGIF](https://github-readme-stats.vercel.app/api?username=Swastik-WhitehatJR&show_icons=true&count_private=true&theme=LIGHT)
 
 
 <!--# SOME OF MY REPOSITORIES
