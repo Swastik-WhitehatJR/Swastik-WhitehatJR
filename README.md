@@ -25,7 +25,9 @@
 
 # ABOUT MY GITHUB PROFILE
 ![My GIF](https://github-readme-stats.vercel.app/api?username=Swastik-WhitehatJR&show_icons=true&count_private=true&theme=dark)
-![MYGIF](https://github-readme-stats.vercel.app/api?username=Swastik-WhitehatJR&show_icons=true&count_private=true&theme=LIGHT)
+![MYGIF](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik-WhitehatJR&theme=gruvbox&count_private=true&custom_title=Top%20Languages)
+![MYGIF](https://github-profile-trophy.vercel.app/?username=Swastik-WhitehatJR&theme=gruvbox)
+
 
 
 <!--# SOME OF MY REPOSITORIES
